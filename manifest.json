@@ -1,0 +1,13 @@
+{
+  "background_color": "#fdf8f8",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "DinosaursOffice",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "DinosausOffice",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "id": "Dinosausoffice",
+  "description": "boss Dinosaur $$"
+}
